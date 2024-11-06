@@ -146,6 +146,8 @@ no-large-media: behind-the-scene false
 * www.bkg.bund.de * noop
 * bmdv.bund.de * noop
 * www.bsi.bund.de * noop
+* buttsspicykitchenindiancuisine.de * noop
+* www.buttsspicykitchenindiancuisine.de * noop
 * bvg.de * noop
 * www.bvg.de * noop
 * bw-online-shop.com * noop
@@ -156,6 +158,7 @@ no-large-media: behind-the-scene false
 * camp-firefox.de * noop
 * www.camp-firefox.de * noop
 * campact.de * noop
+* me.campact.de * noop
 * www.campact.de * noop
 * cdn-apple.com * block
 * certimoov.com * noop
@@ -167,6 +170,7 @@ no-large-media: behind-the-scene false
 * christopher5106.github.io * noop
 * chrultrabook.com * noop
 * forum.chrultrabook.com * noop
+* clevo-computer.com * noop
 * cloudinary.com * block
 * cmdchallenge.com * noop
 * cnet.com * noop
@@ -243,6 +247,7 @@ no-large-media: behind-the-scene false
 * design.blog.documentfoundation.org * noop
 * bugs.documentfoundation.org * noop
 * dolphin-emu.org * noop
+* doubleclick.net * block
 * dropfile.at * noop
 * ds-aksb-a.akamaihd.net * block
 * dsca.akamaiedge.net * noop
@@ -250,6 +255,7 @@ no-large-media: behind-the-scene false
 * dscg2.akamai.net * noop
 * dscx.akamaiedge.net * noop
 * dsgvo-gesetz.de * noop
+* duckduckgo.com * noop
 * dudodiprj2sv7.cloudfront.net * noop
 * dy-api.eu * block
 * dyne.github.io * noop
@@ -261,6 +267,8 @@ no-large-media: behind-the-scene false
 * ebayimg.com * noop
 * ebayrtm.com * noop
 * ebaystatic.com * noop
+* elster.de * noop
+* www.elster.de * noop
 * endlessos.com * noop
 * community.endlessos.com * noop
 * etracker.com * block
@@ -286,6 +294,7 @@ no-large-media: behind-the-scene false
 * discourse.flathub.org * noop
 * fontawesome.com * noop
 * fonts.net * noop
+* foodsharing.de * noop
 * foolbazar.eu * noop
 * eggflix.foolbazar.eu * noop
 * forums.debian.net * noop
@@ -319,6 +328,7 @@ no-large-media: behind-the-scene false
 * framindmap.org * noop
 * freefilesync.org * noop
 * fridaysforfuture.de * noop
+* friendlycaptcha.eu * noop
 * fsdn.com * noop
 * futo.org * noop
 * gitlab.futo.org * noop
@@ -345,6 +355,7 @@ no-large-media: behind-the-scene false
 * gitlab.gnome.org * noop
 * go-mpulse.net * block
 * translate.google.com * block
+* googletagmanager.com * block
 * googleusercontent.com * block
 * googlevideo.com * noop
 * govdata.de * noop
@@ -363,6 +374,7 @@ no-large-media: behind-the-scene false
 * www.gruble.de * noop
 * grundstoff.net * noop
 * www.grundstoff.net * noop
+* gstatic.com * block
 * gwdg.de * noop
 * hacon.de * noop
 * hafas.de * noop
@@ -529,6 +541,7 @@ no-large-media: behind-the-scene false
 * tools.pdf24.org * noop
 * pgp.com * noop
 * keyserver.pgp.com * noop
+* piwik.pro * noop
 * ploud.jp * noop
 * posit.co * noop
 * ppsspp.org * noop
@@ -599,6 +612,7 @@ no-large-media: behind-the-scene false
 * spectra.video * noop
 * spike.codes * noop
 * libreddit.spike.codes * noop
+* spinnerundweber.de * noop
 * spotlersearchanalytics.com * block
 * sqlite.org * noop
 * ssl-images-amazon.com * block
@@ -704,6 +718,10 @@ no-large-media: behind-the-scene false
 * zenroom.org * noop
 * zentrum-der-gesundheit.de * noop
 * www.zentrum-der-gesundheit.de * noop
+* zoll-portal.de * noop
+* www.eori.zoll-portal.de * noop
+* zoll.de * noop
+* www.zoll.de * noop
 www.105viertel.de d1buhjvxj128v2.cloudfront.net * noop
 www.105viertel.de d1cq301dpr7fww.cloudfront.net * noop
 www.105viertel.de filesusr.com * noop
@@ -760,12 +778,18 @@ brandnewbundestag.de google.com * noop
 brandnewbundestag.de stripe.com * noop
 brandnewbundestag.de youtube.com * noop
 search.brave.com search.brave.com * noop
+www.buttsspicykitchenindiancuisine.de takeaway.com * noop
 www.bvg.de hafas.de * noop
 www.campact.de piwik.pro * noop
 character.ai character.ai * noop
 chatgpt.com browser-intake-datadoghq.com * noop
 chatgpt.com chatgpt.com * noop
 chatgpt.com oaistatic.com * noop
+clevo-computer.com cashpresso.com * noop
+clevo-computer.com doofinder.com * noop
+clevo-computer.com intedia.de * noop
+clevo-computer.com rbi-live-env-lb-668036596.eu-central-1.elb.amazonaws.com * noop
+clevo-computer.com zopim.com * noop
 www.discomp.cz atmrum.net * noop
 www.discomp.cz hotjar.com * noop
 meta.discourse.org d11a6trkgmumsb.cloudfront.net * noop
