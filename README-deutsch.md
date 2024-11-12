@@ -54,7 +54,7 @@ Aber experimentiere gerne, gebe nicht einfach alles frei. Ein paar fehlende Bild
 
 3. Nun kannst du diese Liste unter „Meine Regeln“ importieren
 4. Öffne einige Websites, mit dem Addon-Popup (siehe erster Screenshot) kannst du Javascript freischalten
-5. Diese Freischaltungen sind temporär !!! (Aus welchem Grund auch immer). Gehe auf die UBO-Einstellungsseite, „Meine Regeln“ und „Commite“ deine Änderungen in die Liste
+5. Diese Freischaltungen sind temporär, mit dem "Schloss" Icon werden sie permanent gemacht
 
 ![screenshot](https://github.com/boredsquirrel/ublock-allowlist/blob/main/images/ubo-settings.jpg?raw=true)
 
