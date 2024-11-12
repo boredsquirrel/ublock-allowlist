@@ -54,7 +54,7 @@ But experiment, dont just unblock everything. A few missing images can be fine, 
 
 3. Now you can import this list under "My Rules"
 4. Open some websites, using the Addon popup (see first screenshot) you can unblock javascript
-5. These unblocks are temporary !!! (For whatever reason). Go to the UBO Settings page, "My Rules" and "Commit" your changes to the list
+5. These unblocks are temporary, use the lock icon to apply them permanently
 
 ![screenshot](https://github.com/boredsquirrel/ublock-allowlist/blob/main/images/ubo-settings.jpg?raw=true)
 
